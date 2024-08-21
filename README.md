@@ -1,6 +1,6 @@
 # Course-8-Programming-Advice
 
-The Client and Users Must be Included 
+The Clients and Users Must be Included 
 
 (-1) for Admin Access .
 
